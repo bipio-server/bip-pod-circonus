@@ -1,3 +1,4 @@
+# **NOTICE:** This repository has been **DEPRECATED**. Do not use.
 ![Circonus](circonus.png) bip-pod-circonus
 =======
 
